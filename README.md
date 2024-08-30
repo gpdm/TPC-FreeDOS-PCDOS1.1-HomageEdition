@@ -7,9 +7,9 @@ set of [IBM PC DOS 1.1](https://en.wikipedia.org/wiki/IBM_PC_DOS#PC_DOS_1.x) usi
 
 A set of premade disk images are available:
 
-* [160K](Disk Images/160K)
-* [180K](Disk Images/180K)
-* [360K](Disk Images/360K)
+* [160K](Disk%20Images/160K)
+* [180K](Disk%20Images/180K)
+* [360K](Disk%20Images/360K)
 
 
 # What's included?
